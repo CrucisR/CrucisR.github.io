@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://CrucisR.github.io</id>
+    <title>A Planet that slowly Rotates and Remains silent</title>
+    <subtitle></subtitle>
+    <icon>https://crucisr.github.io/images/favicon.ico</icon>
+    <link href="https://CrucisR.github.io" />
+    <author>
+      <name>Crucis</name>
+    </author>
+    <updated>2024-03-06T16:19:26.406Z</updated>
+    <entry>
+        <id>https://crucisr.github.io/2024/03/07/hello-world/</id>
+        <title>This is the first Blog for Crucis</title>
+        <link rel="alternate" href="https://crucisr.github.io/2024/03/07/hello-world/"/>
+        <content type="html">&lt;h2 id=&#34;cruciss-first-opus-for-the-website&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#cruciss-first-opus-for-the-website&#34;&gt;#&lt;/a&gt; Crucis&#39;s First Opus for the website&lt;/h2&gt;
+&lt;p&gt;Today is March 7th, 2024&lt;/p&gt;
+&lt;p&gt;What a wonderful, pleasurable, fortunate Day !!!&lt;/p&gt;
+&lt;h2 id=&#34;hope&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hope&#34;&gt;#&lt;/a&gt; Hope&lt;/h2&gt;
+&lt;p&gt;I wish i will be kira live&lt;/p&gt;
+&lt;h2 id=&#34;target&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#target&#34;&gt;#&lt;/a&gt; Target&lt;/h2&gt;
+&lt;p&gt;Be a illustrious ITer&lt;/p&gt;
+&lt;h2 id=&#34;life&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#life&#34;&gt;#&lt;/a&gt; Life&lt;/h2&gt;
+&lt;p&gt;Be away from everything which behalf of the Self castration&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;            Written on March 6, 2024 at 23:27&lt;/code&gt;&lt;/pre&gt;
+</content>
+        <updated>2024-03-06T16:19:26.406Z</updated>
+    </entry>
+</feed>
